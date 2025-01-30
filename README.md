@@ -17,3 +17,8 @@ A simple Rock Paper Scissors game built with HTML, CSS, and JavaScript. Play aga
 - Choose Rock, Paper, or Scissors.
 - The computer picks a random choice.
 - See the result and your updated score.
+
+## Demo
+Try out the live demo of the app here: <a href="https://gregoriusgrd.github.io/tic-tac-toe/">Tic Tac Toe Demo</a>
+
+
